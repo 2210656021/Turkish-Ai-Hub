@@ -27,7 +27,7 @@ Bu proje, bir kahve dükkanı satış veri setini işleyip analiz ederek içgör
 
 2-Aşağıdaki Python kütüphanelerini kurduk:  
 - pandas  - numpy  - openpyxl  - matplotlib  - seaborn
-- 
+  
 3-Veri setini (Coffee Shop Sales.xlsx) uygun klasöre yerleştirdik.
 
 **İçerik Özeti**
