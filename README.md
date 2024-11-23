@@ -1,4 +1,4 @@
-Kagle Linkim:   https://www.kaggle.com/code/eminkahraman/turkish-ai-hub-veri-analizi/edit
+Kaagle Linkim:   https://www.kaggle.com/code/eminkahraman/turkish-ai-hub-veri-analizi/edit
 
 
 # Turkish-Ai-Hub
